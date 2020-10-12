@@ -1,0 +1,44 @@
+
+Jsquid:S2185‘"&Remove this silly call to "Math.round"(›ü…êüÿÿÿÿ8Ù»ÀÑ.
+isquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(­¡Í8Ù»ÀÑ.
+Zsquid:S2696Û"6Make the enclosing method "static" or remove this set.(óÍ£•úÿÿÿÿ8Ê›òÀÑ.
+Zsquid:S2696Ø"6Make the enclosing method "static" or remove this set.(Àì¡÷ıÿÿÿÿ8Ù»ÀÑ.
+Zsquid:S2696à"6Make the enclosing method "static" or remove this set.(ñâÔÁùÿÿÿÿ8Ù•ÂÑ.
+zsquid:S00116'"VRename this field "right_arrow" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ìˆæıÿÿÿÿ8÷Ú½Ñ.
+~squid:S00116'"ZRename this field "pageCount_label" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ìˆæıÿÿÿÿ8÷Ú½Ñ.
+nsquid:CommentedOutCodeLineQ"<This block of commented-out lines of code should be removed.( ó©îÿÿÿÿÿ8‚Ø¿Ñ.
+dsquid:S2259‘"EA "NullPointerException" could be thrown; "details" is nullable here.(Ş½¥õ8Ù»ÀÑ.
+esquid:S2184á"ACast one of the operands of this division operation to a "float".(Ã“×êøÿÿÿÿ8Ù»ÀÑ.
+isquid:CommentedOutCodeLineS"<This block of commented-out lines of code should be removed.(à€ƒ½8Ù»ÀÑ.
+Psquid:S1659'"-Declare "pageCount_label" on a separate line.(¶ìˆæıÿÿÿÿ8÷Ú½Ñ.
+Nsquid:S1905"*Remove this unnecessary cast to "Details".( €ü¢ÿÿÿÿÿ8Ù»ÀÑ.
+qsquid:S3776ö"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ñ÷¤§8Ù»ÀÑ.
+Jsquid:S1481—"&Remove this unused "j" local variable.(í¨“½ÿÿÿÿÿ8Ù»ÀÑ.
+Usquid:S1153"1Directly append the argument of String.valueOf().(Ã“×êøÿÿÿÿ8Ù»ÀÑ.
+Esquid:S2185’"&Remove this silly call to "Math.round"(ßµø8Ù»ÀÑ.
+`squid:S2184’"ACast one of the operands of this division operation to a "float".(ßµø8Ù»ÀÑ.
+dsquid:S2259›"EA "NullPointerException" could be thrown; "details" is nullable here.(Ş½¥õ8Ù»ÀÑ.
+esquid:S2184‘"ACast one of the operands of this division operation to a "float".(›ü…êüÿÿÿÿ8Ù»ÀÑ.
+Zsquid:S2696œ"6Make the enclosing method "static" or remove this set.(ñâÔÁùÿÿÿÿ8ïşûÁÑ.
+Fsquid:S1185¼"(Remove this method to simply inherit it.(­–ÀS8Ù»ÀÑ.
+Jsquid:S2185á"&Remove this silly call to "Math.round"(Ã“×êøÿÿÿÿ8Ù»ÀÑ.
+Jsquid:S2185"&Remove this silly call to "Math.round"(Ã“×êøÿÿÿÿ8Ù»ÀÑ.
+Gsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ù»ÀÑ.
+esquid:S2184"ACast one of the operands of this division operation to a "float".(Ã“×êøÿÿÿÿ8Ù»ÀÑ.
+Ksquid:S1659'"(Declare "left_arrow" on a separate line.(¶ìˆæıÿÿÿÿ8÷Ú½Ñ.
+jsquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(®ùÁè8Ù»ÀÑ.
+Ysquid:S2696~"6Make the enclosing method "static" or remove this set.(ñâÔÁùÿÿÿÿ8ïşûÁÑ.
+Jsquid:S1659'"'Declare "pageCount" on a separate line.(¶ìˆæıÿÿÿÿ8÷Ú½Ñ.
+Gsquid:S1185ª"(Remove this method to simply inherit it.(ËĞƒ8Ù»ÀÑ.
+jsquid:CommentedOutCodeLineì"<This block of commented-out lines of code should be removed.(¶¸ºº8Ù»ÀÑ.
+Usquid:S1153€"1Directly append the argument of String.valueOf().(Ã“×êøÿÿÿÿ8Ù»ÀÑ.
+nsquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(‡¥Ëüÿÿÿÿ8‚Ø¿Ñ.
+Jsquid:S2185€"&Remove this silly call to "Math.round"(Ã“×êøÿÿÿÿ8Ù»ÀÑ.
+Usquid:S1153á"1Directly append the argument of String.valueOf().(Ã“×êøÿÿÿÿ8Ù»ÀÑ.
+ysquid:S00116'"URename this field "left_arrow" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ìˆæıÿÿÿÿ8÷Ú½Ñ.
+vsquid:S00117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á”©Äøÿÿÿÿ8Ù»ÀÑ.
+Nsquid:S1905˜"*Remove this unnecessary cast to "Details".( €ü¢ÿÿÿÿÿ8Ù»ÀÑ.
+esquid:S2184€"ACast one of the operands of this division operation to a "float".(Ã“×êøÿÿÿÿ8Ù»ÀÑ.
+nsquid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.( •àøÿÿÿÿ8‚Ø¿Ñ.
+jsquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(Ğ°×ê8¹°˜ÂÑ.
+isquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(œŒ»õ8‚Ø¿Ñ.

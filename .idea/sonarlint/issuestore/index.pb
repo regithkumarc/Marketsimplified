@@ -1,0 +1,27 @@
+
+q
+Aapp/src/main/java/com/example/marketsimplified/model/Details.java,e\7\e772660452b3186e004cba735df5406182d36ab1
+n
+>app/src/main/java/com/example/marketsimplified/di/BaseApi.java,b\1\b1bcbb4d89a8727de116ccfebdfa1233a212caab
+w
+Gapp/src/main/java/com/example/marketsimplified/view/DetailsAdapter.java,2\5\25f4899b513da0a3888d7cf157d79ad26a973df6
+v
+Fapp/src/main/java/com/example/marketsimplified/model/OwnerDetails.java,7\4\74e78b90b44803fe52c5a5353898afb683e33b53
+{
+Kapp/src/main/java/com/example/marketsimplified/common/RoundedImageView.java,6\1\6183e2a6e7e9fea70d5ebe2e1945e6920ca04c78
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+r
+Bapp/src/main/java/com/example/marketsimplified/common/Utility.java,7\b\7b6cbb35da0980303e286d0a207df4841390eef8
+~
+Napp/src/main/java/com/example/marketsimplified/viewmodel/DetailsViewModel.java,1\1\117b845124d308154ab96e5ce35eb67df28f553d
+x
+Happ/src/main/java/com/example/marketsimplified/view/DetailsActivity.java,9\a\9a67cc246792b2945bdd87c48caaa46b57b88dc1
+r
+Bapp/src/main/java/com/example/marketsimplified/view/FragmentC.java,8\c\8c76950dc5d3d941a9fc1e90048e7c3b5559903f
+r
+Bapp/src/main/java/com/example/marketsimplified/view/FragmentB.java,e\d\edde7f5c87f52a9867dcace199d4e3e6403b4fd1
+u
+Eapp/src/main/java/com/example/marketsimplified/view/BaseFragment.java,5\b\5ba01e2c2d0b830cd3634e8aef7885659e64b414
+r
+Bapp/src/main/java/com/example/marketsimplified/view/FragmentA.java,d\6\d6895892df91685f8733eb94ec9904da5271d9d5

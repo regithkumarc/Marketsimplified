@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/linear_layout"></androidx.recyclerview.widget.RecyclerView>
+
+    <LinearLayout
+        android:id="@+id/linear_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:padding="10dp"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/left_arrow"
+            android:layout_width="23dp"
+            android:layout_height="23dp"
+            android:layout_marginLeft="25dp"
+            android:background="@drawable/left_arrow" />
+
+        <TextView
+            android:id="@+id/pageCount"
+            android:layout_width="wrap_content"
+            android:layout_height="23dp"
+            android:layout_marginLeft="25dp"
+            android:visibility="gone"/>
+
+        <!--<TextView-->
+            <!--android:id="@+id/pageCount_label"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="23dp"-->
+            <!--android:layout_marginLeft="25dp" />-->
+
+        <TextView
+            android:id="@+id/right_arrow"
+            android:layout_width="23dp"
+            android:layout_height="23dp"
+            android:layout_marginLeft="25dp"
+            android:background="@drawable/right_arrow" />
+
+    </LinearLayout>
+
+    <!--<RelativeLayout-->
+        <!--android:id="@+id/next_relative"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:background="@drawable/bluebackgroundnavigate"-->
+        <!--android:layout_marginTop="10dp">-->
+
+
+        <!--<ImageView-->
+            <!--android:layout_width="23dp"-->
+            <!--android:layout_height="23dp"-->
+            <!--android:layout_marginLeft="25dp"-->
+            <!--android:background="@drawable/first" />-->
+        <!--<ImageView-->
+            <!--android:id="@+id/prev_button"-->
+            <!--android:layout_width="23dp"-->
+            <!--android:layout_height="23dp"-->
+            <!--android:layout_marginLeft="50dp"-->
+            <!--android:layout_marginTop="10dp"-->
+            <!--android:background="@drawable/prev"/>-->
+        <!--&lt;!&ndash;<TextView&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_width="wrap_content"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_height="wrap_content"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:text="Page"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_marginLeft="80dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_marginTop="15dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:textColor="#ffffff"/>&ndash;&gt;-->
+        <!--&lt;!&ndash;<TextView&ndash;&gt;-->
+            <!--&lt;!&ndash;android:id="@+id/page_txt"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_width="63dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_height="43dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_marginLeft="120dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_marginTop="4dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:singleLine="true"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:gravity="center"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:text="0"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:textColor="#000000"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:background="@drawable/pag_txt"/>&ndash;&gt;-->
+        <!--&lt;!&ndash;<TextView&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_width="wrap_content"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_height="wrap_content"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:text="of"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_marginLeft="185dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_marginTop="15dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:textColor="#ffffff"/>&ndash;&gt;-->
+        <!--&lt;!&ndash;<TextView&ndash;&gt;-->
+            <!--&lt;!&ndash;android:id="@+id/total_pages"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_width="wrap_content"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_height="wrap_content"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_marginLeft="205dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_marginTop="15dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:text="8"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:textColor="#ffffff"/>&ndash;&gt;-->
+        <!--<ImageView-->
+            <!--android:id="@+id/next_button"-->
+            <!--android:layout_width="23dp"-->
+            <!--android:layout_height="23dp"-->
+            <!--android:layout_marginLeft="225dp"-->
+            <!--android:layout_marginTop="10dp"-->
+            <!--android:background="@drawable/next"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="23dp"-->
+            <!--android:layout_height="23dp"-->
+            <!--android:layout_marginLeft="245dp"-->
+            <!--android:layout_marginTop="10dp"-->
+            <!--android:background="@drawable/last"/>-->
+        <!--&lt;!&ndash;<TextView&ndash;&gt;-->
+            <!--&lt;!&ndash;android:id="@+id/id_txt_totalpatients"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_width="wrap_content"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_height="wrap_content"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:text="Total Records"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_marginTop="15dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:textSize="18dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_centerHorizontal="true"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:textColor="#ffffff"/>&ndash;&gt;-->
+        <!--&lt;!&ndash;<TextView&ndash;&gt;-->
+            <!--&lt;!&ndash;android:id="@+id/totalpatientscount"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_width="wrap_content"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_height="wrap_content"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_marginLeft="5dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_marginTop="15dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:textSize="18dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_toRightOf="@+id/id_txt_totalpatients"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:textColor="#ffffff"/>&ndash;&gt;-->
+        <!--&lt;!&ndash;<ImageView&ndash;&gt;-->
+            <!--&lt;!&ndash;android:id="@+id/refresh_sync"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_width="35dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_height="35dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_alignParentRight="true"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_marginRight="12dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_marginTop="8dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:background="@drawable/refresh" />&ndash;&gt;-->
+    <!--</RelativeLayout>-->
+</RelativeLayout>

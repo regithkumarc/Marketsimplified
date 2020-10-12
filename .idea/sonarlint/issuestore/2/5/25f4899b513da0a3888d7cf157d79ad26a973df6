@@ -1,0 +1,14 @@
+
+ysquid:S00116{"ZRename this field "commends_linear" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÃØé8ËÍç¹Ñ.
+Ksquid:S1659z"(Declare "close_icon" on a separate line.(’õîëşÿÿÿÿ8šØ¢ºÑ.
+Jsquid:S1659z"'Declare "send_icon" on a separate line.(’õîëşÿÿÿÿ8šØ¢ºÑ.
+Isquid:S1659{"+Declare "comments_view" on a separate line.(ÑÃØé8Ş¯ï¹Ñ.
+rsquid:S2159C"VRemove this call to "equals"; comparisons between unrelated types always return false.(ıõÅŸüÿÿÿÿ
+zsquid:S00116{"[Rename this field "item_list_linear" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÃØé8”»°»Ñ.
+Isquid:S1659z"-Declare "privateOrPublic" on a separate line.(’õîëşÿÿÿÿ
+Lsquid:S1659{".Declare "item_list_linear" on a separate line.(ÑÃØé8”»°»Ñ.
+xsquid:S00116z"TRename this field "send_icon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’õîëşÿÿÿÿ8šØ¢ºÑ.
+ysquid:S00116z"URename this field "close_icon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’õîëşÿÿÿÿ8šØ¢ºÑ.
+wsquid:S00116{"XRename this field "comments_view" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÃØé8Ş¯ï¹Ñ.
+Asquid:S1659z"%Declare "repoUrl" on a separate line.(’õîëşÿÿÿÿ
+€squid:S00116|"\Rename this field "commends_edittext" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»”¹Èûÿÿÿÿ8ËÍç¹Ñ.

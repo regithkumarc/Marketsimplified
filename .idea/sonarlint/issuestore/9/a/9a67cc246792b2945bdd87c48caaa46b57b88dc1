@@ -1,0 +1,15 @@
+
+isquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(Ûé«ú8×ª¿Ñ.
+ysquid:S00116"URename this field "fragment_b" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ûµáýÿÿÿÿ8þè÷·Ñ.
+Jsquid:S1659"'Declare "pageCount" on a separate line.(Ø‹¹¡ýÿÿÿÿ8ŸÊ…œÑ.
+Ksquid:S1659"(Declare "left_arrow" on a separate line.(Ø‹¹¡ýÿÿÿÿ8Šù›Ñ.
+hsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(ºøŸb8Ÿë™¸Ñ.
+isquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(Ûé«ú8ÚÅ«¿Ñ.
+ysquid:S00116"URename this field "left_arrow" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø‹¹¡ýÿÿÿÿ8Šù›Ñ.
+]squid:UselessImportCheck"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8Áùâ¼Ñ.
+Ksquid:S1659"(Declare "fragment_c" on a separate line.(¡ûµáýÿÿÿÿ8þè÷·Ñ.
+ysquid:S00116"URename this field "fragment_a" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ûµáýÿÿÿÿ8þè÷·Ñ.
+Ksquid:S1659"(Declare "fragment_b" on a separate line.(¡ûµáýÿÿÿÿ8þè÷·Ñ.
+ysquid:S00116"URename this field "fragment_c" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ûµáýÿÿÿÿ8þè÷·Ñ.
+isquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(Ûé«ú8ÚÅ«¿Ñ.
+zsquid:S00116"VRename this field "right_arrow" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø‹¹¡ýÿÿÿÿ8Šù›Ñ.

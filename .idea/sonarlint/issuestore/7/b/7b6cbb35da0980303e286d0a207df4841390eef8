@@ -1,0 +1,24 @@
+
+Hsquid:S1659"%Declare "repoUrl" on a separate line.(Á—Ùúÿÿÿÿ8Ğ¥¼»Ñ.
+Psquid:S1659"-Declare "privateOrPublic" on a separate line.(Á—Ùúÿÿÿÿ8Ğ¥¼»Ñ.
+}squid:S1450"ZRemove the "popup_close" field and declare it as a local variable in the relevant methods.(µ™†‘ÿÿÿÿÿ8ïä»Ñ.
+Osquid:S1444"1Make this "public static listDetails" field final(¡î¤£8ÛÊè½Ñ.
+ysquid:S3008"VRename this field "popup_close" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ™†‘ÿÿÿÿÿ8ïä»Ñ.
+Ssquid:S1444"0Make this "public static listDetail" field final(ò´åùÿÿÿÿ8¯ê»Ñ.
+vsquid:S1450"SRemove the "name" field and declare it as a local variable in the relevant methods.(Á—Ùúÿÿÿÿ8Ğ¥¼»Ñ.
+…"squid:ClassVariableVisibilityCheck"PMake flag a static final constant or non-public and provide accessors if needed.(É’ã8»Ê­½Ñ.
+Fsquid:S1148H"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¯ê»Ñ.
+Œ"squid:ClassVariableVisibilityCheck"WMake listDetails a static final constant or non-public and provide accessors if needed.(¡î¤£8ÛÊè½Ñ.
+@squid:S2386"Make this member "protected".(ò´åùÿÿÿÿ8¯ê»Ñ.
+bsquid:UselessImportCheck	"2Remove this unused import 'android.widget.Button'.(²òıÿÿÿÿ8ëÅã»Ñ.
+Hsquid:S1444"*Make this "public static flag" field final(É’ã8»Ê­½Ñ.
+\squid:UselessImportCheck"1Remove this unused import 'android.app.Activity'.(‡ÊÍÆ8Ãï·»Ñ.
+{squid:S1450"XRemove the "imageView" field and declare it as a local variable in the relevant methods.(é‰°±ıÿÿÿÿ8Ğ¥¼»Ñ.
+ysquid:S1450"VRemove the "repoUrl" field and declare it as a local variable in the relevant methods.(Á—Ùúÿÿÿÿ8Ğ¥¼»Ñ.
+’"squid:ClassVariableVisibilityCheck"]Make previousPageCount a static final constant or non-public and provide accessors if needed.(Ğ²³8æâÁÑ.
+]squid:S1118":Add a private constructor to hide the implicit public one.(¹‹ó¿ıÿÿÿÿ8»Ê­½Ñ.
+;squid:S2386"Make this member "protected".(¡î¤£8ÛÊè½Ñ.
+ysquid:S21595"VRemove this call to "equals"; comparisons between unrelated types always return false.(ıõÅŸüÿÿÿÿ8•ÃÃ»Ñ.
+"squid:ClassVariableVisibilityCheck"VMake listDetail a static final constant or non-public and provide accessors if needed.(ò´åùÿÿÿÿ8¯ê»Ñ.
+squid:S1450"^Remove the "privateOrPublic" field and declare it as a local variable in the relevant methods.(Á—Ùúÿÿÿÿ8Ğ¥¼»Ñ.
+Usquid:S1444"7Make this "public static previousPageCount" field final(Ğ²³8æâÁÑ.
