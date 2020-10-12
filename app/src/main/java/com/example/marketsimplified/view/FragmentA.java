@@ -231,8 +231,7 @@ public class FragmentA extends Fragment {
             Utility.listDetail.add(detailsList.get(i));
         }
     }
-
-
+    
     public List<Details> loadData(int selectedPage) {
         Details details = null;
         List<Details> detailsAdapter = new ArrayList<>();
