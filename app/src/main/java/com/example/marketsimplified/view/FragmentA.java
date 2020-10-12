@@ -231,15 +231,13 @@ public class FragmentA extends Fragment {
             Utility.listDetail.add(detailsList.get(i));
         }
     }
-    
+
     public List<Details> loadData(int selectedPage) {
         Details details = null;
         List<Details> detailsAdapter = new ArrayList<>();
 
         int totalPatients = Utility.listDetail.size();
         int noofPages = (int) Math.ceil(totalPatients / 8.0);   // 8/8 -> 1    16/8 -> 2
-
-        final int selPage = selectedPage;
 
         if (selectedPage <= noofPages && selectedPage > 0) {
             try {
