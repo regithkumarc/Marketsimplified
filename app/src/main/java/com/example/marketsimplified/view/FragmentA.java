@@ -157,7 +157,6 @@ public class FragmentA extends Fragment {
         });
     }
 
-
     class GetDetailsTask extends AsyncTask<Void, Void, String> {         // 1) void - input  3) String - output
 
         @Override
@@ -239,6 +238,7 @@ public class FragmentA extends Fragment {
         int totalPatients = Utility.listDetail.size();
         int noofPages = (int) Math.ceil(totalPatients / 8.0);   // 8/8 -> 1    16/8 -> 2
 
+        final int selPage = selectedPage;
         if (selectedPage <= noofPages && selectedPage > 0) {
             try {
                 if (getRecyclerView() != null)
